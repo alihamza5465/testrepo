@@ -15,6 +15,7 @@ const Counter = () => {
       </div>
       <div>helloo workd</div>
       <div>changes form ali branch</div>
+      <>new in afraz</>
     </>
   );
 };
