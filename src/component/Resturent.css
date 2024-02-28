@@ -1,0 +1,28 @@
+.body-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: azure;
+}
+.card-section{
+    background-color: black ;
+    padding: 10px;
+    width: 25%;
+    margin: 10px;
+    margin-top: 20px;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.card-img img{
+    margin-top: 10px;
+    width: 300px;
+    height: 250px;
+}
+.order-button{
+    margin-top: 10px;
+    width: 120px;
+}
